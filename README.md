@@ -40,6 +40,7 @@ The Application uses [Jest](https://www.npmjs.com/package/jest) for running the 
 
 ## Walkthrough Video:
 
+https://github.com/rawc72/Challenge_No_10/issues/2#issue-1057369086
 
 ## Link to Executed Appplication:
 
