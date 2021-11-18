@@ -1,0 +1,22 @@
+{
+    "name": "myteam",
+    "version": "1.0.0",
+    "description": "Command line program to generate team page",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [
+        "nodejs"
+    ],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^27.3.1",
+        "fs": "^0.0.1-security",
+        "inquirer": "^6.3.1"
+    }
+}
